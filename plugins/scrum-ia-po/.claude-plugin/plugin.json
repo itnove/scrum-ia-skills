@@ -1,0 +1,9 @@
+{
+  "name": "scrum-ia-po",
+  "version": "0.2.0",
+  "description": "Skills de Scrum e IA para Product Owners, en español: contexto del producto, entrevistas, historias y criterios, priorización, Sprint Review, actas con decisiones, Product Goal, OKR y Kanban.",
+  "author": { "name": "ITNOVE", "url": "https://www.itnove.com" },
+  "homepage": "https://www.itnove.com/recursos/caja-herramientas-ia-po",
+  "license": "MIT",
+  "keywords": ["scrum", "product-owner", "product-management", "espanol", "agile"]
+}

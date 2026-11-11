@@ -1,0 +1,12 @@
+{
+  "name": "scrum-ia",
+  "owner": { "name": "ITNOVE", "url": "https://www.itnove.com" },
+  "metadata": { "description": "Skills de Scrum e IA para Product Owners, en español." },
+  "plugins": [
+    {
+      "name": "scrum-ia-po",
+      "source": "./plugins/scrum-ia-po",
+      "description": "El día a día del Product Owner con Scrum: contexto del producto, entrevistas, historias y criterios, priorización, Sprint Review, actas con decisiones, Product Goal, OKR y Kanban."
+    }
+  ]
+}

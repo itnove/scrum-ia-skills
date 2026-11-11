@@ -1,0 +1,26 @@
+id,titulo,estado,inicio,fin
+KAN-1,Recordatorio 7 dias,Hecho,2026-09-21,2026-09-26
+KAN-2,Lista de espera,Hecho,2026-09-26,2026-10-24
+KAN-3,Pantalla de horarios,Hecho,2026-09-04,2026-09-08
+KAN-4,Pago de cuota,Hecho,2026-10-23,2026-11-07
+KAN-5,Aviso de clase cancelada,Hecho,2026-09-07,2026-09-15
+KAN-6,Perfil del socio,Hecho,2026-10-08,2026-10-11
+KAN-7,Filtro por monitor,Hecho,2026-10-03,2026-10-09
+KAN-8,Reservar desde inicio,Hecho,2026-09-03,2026-09-07
+KAN-9,Alta en 2 minutos,Hecho,2026-09-28,2026-10-07
+KAN-10,Valoracion de clase,Hecho,2026-09-05,2026-09-11
+KAN-11,Bono de 10 clases,Hecho,2026-09-06,2026-09-21
+KAN-12,Cambio de gimnasio,Hecho,2026-09-28,2026-10-01
+KAN-13,Notificaciones agrupadas,Hecho,2026-10-23,2026-11-13
+KAN-14,Exportar factura,Hecho,2026-09-08,2026-09-14
+KAN-15,Modo accesible,Hecho,2026-10-11,2026-11-08
+KAN-16,Historial de visitas,Hecho,2026-10-08,2026-10-11
+KAN-17,Error al pagar con tarjeta,En pruebas,2026-10-07,
+KAN-18,Crash al abrir en Android,En curso,2026-09-26,
+KAN-19,Texto legal del aviso,En curso,2026-09-15,
+KAN-20,Panel de cohortes,En revisión,2026-10-06,
+KAN-21,Reservar con un amigo,Bloqueado,2026-09-19,
+KAN-22,Acceso con QR,En pruebas,2026-09-10,
+KAN-23,Mejora de carga,En pruebas,2026-09-08,
+KAN-24,Calendario semanal,En pruebas,2026-09-20,
+KAN-25,Recordatorio de cuota,En revisión,2026-10-23,

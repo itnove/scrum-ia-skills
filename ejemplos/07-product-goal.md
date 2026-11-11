@@ -1,0 +1,1 @@
+Nuestro Product Goal para el trimestre es "Lanzar la nueva app de reservas con lista de espera, reservar con un amigo y acceso con QR". ¿Está bien? La visión es que cualquier persona que se apunte a uno de nuestros gimnasios lo convierta en un hábito.
